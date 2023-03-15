@@ -1,6 +1,6 @@
 # build_maven_package_store_in_github_packages
 ## Build the maven package and store it into the github packages
-## Prerequist
+## Prerequisite
 1. java install on local 
 2. maven install on local 
 ## Points we should know 
